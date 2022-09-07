@@ -5,3 +5,6 @@ int main() {
     cout << "Hello from Proj1" << endl;
     return 0;
 }
+
+
+// boiler plate
